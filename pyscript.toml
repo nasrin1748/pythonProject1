@@ -22,6 +22,8 @@ packages = [ "pandas", "Jinja2","html2text","numpy","beautifulsoup4", "lxml","ma
 "main18.py" = "main18.py"
 "main19.py" = "main19.py"
 "main20.py" = "main20.py"
+"main21.py" = "main21.py"
+
 
 
 
