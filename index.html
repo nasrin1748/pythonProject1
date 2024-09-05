@@ -156,7 +156,6 @@ body {font-family: "Lato", sans-serif;}
 <button id="ex18" onclick='Example18'>Change terminal font</button>
 <button id="ex19" onclick='Example19'>Writing and reading a file.</button>
 <button id="ex20" onclick='Example20'>python live code editor</button>
-<button id="ex21" onclick='Example21'>python live code editor1</button>
 </div>
     <p id=demo style= "height: 1000px; overflow-y: scroll;scrollbar-width: none;">
     <script type="py" id="py-terminal" config="./pyscript.toml">
@@ -452,10 +451,6 @@ def Example20(event):
     from main20 import click_handler1
     click_handler1()
 
-@when("click", "#ex21")
-def Example21(event):
-    from main21 import click_handler1
-    click_handler1()
     </script>
      <script src="./main.js">
 
