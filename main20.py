@@ -79,4 +79,5 @@ packages = [ "beautifulsoup4", "lxml","pandas","matplotlib"]
 </code>
 </pre>
 <h5>output</h5>
+<iframe src="https://nasrin1748.github.io/pythonProject9/" title="Example iframe" width="600" height="500"></iframe>
     '''),append=False)
