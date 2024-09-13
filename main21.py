@@ -34,9 +34,6 @@ display(fun())
 display("hello World")
 display("hello")
 display("hello World")
-import js
-x = js.input()
-display(x)   
     
   
     
