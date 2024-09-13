@@ -106,5 +106,5 @@ function initCodeMirror() {
 </code>
 </pre>
 <h5>output</h5>
-<iframe src="https://nasrin1748.github.io/pythonProject24/" title="Example iframe" width="600" height="500"></iframe>
+<iframe src="https://nasrin1748.github.io/pythonProject24/" title="Example iframe" width="600" height="500" credentialless></iframe>
     '''), append=False)
